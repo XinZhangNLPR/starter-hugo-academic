@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xin Zhang （张鑫）
 
 # Is this the primary user of the site?
 superuser: true
